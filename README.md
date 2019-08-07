@@ -14,6 +14,7 @@ Introduction to Mapping Part II (Google MyMaps) is licensed under a <a href="htt
 Google launched <a href="https://www.google.com/maps/about/mymaps/">Google My Maps</a> in 2007 as part of the Google cloud services suite of programs. Through the My Map interface, users with a Google account can map points, lines, and shapes, with additional display customization options. My Maps allows users to generate maps from spreadsheets, work collaboratively on maps, and share interactive maps.
 
 <hr />
+
 # Data
 
 Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Save the 1870 Federal Census Grinnell Township file to your Desktop.
