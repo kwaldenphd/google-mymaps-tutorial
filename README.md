@@ -51,7 +51,7 @@ Alternatively, you can go to the data page of Blevins’s personal site. Under t
 
 7-Like with Carto, we can <strong>click on the three vertical dots</strong> next to the layer to rename the layer. Name the layer <strong>Postmaster Salaries</strong> or a similar descriptive title.
 
-<p align="center">8-My Maps is showing a message that 32 rows in the data could not be drawn on the map. If you have additional time, you can come back and explore this error message. For now, click <strong>Dismiss</strong>.</p>
+8-My Maps is showing a message that 32 rows in the data could not be drawn on the map. If you have additional time, you can come back and explore this error message. For now, click <strong>Dismiss</strong>.
 
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter size-full wp-image-481" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="" width="309" height="41" /></a></p>
 
