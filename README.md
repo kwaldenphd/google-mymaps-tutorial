@@ -15,53 +15,53 @@ Google launched <a href="https://www.google.com/maps/about/mymaps/">Google My Ma
 
 <hr />
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-473" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.png?raw=true" alt="" width="676" height="332" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-473" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="332" /></a></p>
 
 1-Sign up for a <a href="https://accounts.google.com/signup/v2/webcreateaccount?hl=en&amp;flowName=GlifWebSignIn&amp;flowEntry=SignUp">free Google Account</a>, and use those credentials to <a href="https://accounts.google.com/ServiceLogin/signinchooser?service=mymaps&amp;passive=1209600&amp;continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2F%3Fhl%3Den&amp;followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2F%3Fhl%3Den&amp;hl=en&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin">log in to My Maps</a>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_2.png?raw=true"><img class="aligncenter size-full wp-image-474" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_2.png?raw=true" alt="" width="178" height="55" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-full wp-image-474" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="178" height="55" /></a></p>
 
 2-Click on the <strong>Create New Map</strong> icon in the top left-hand corner.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.png?raw=true"><img class="aligncenter size-full wp-image-479" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="" width="407" height="295" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.PNG?raw=true"><img class="aligncenter size-full wp-image-479" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.PNG?raw=true" alt="" width="407" height="295" /></a></p>
 
 3-Name the map by clicking on <strong>Untitled map</strong> in the top left-hand corner. Use <strong>Postmaster Salaries</strong> or a similar descriptive name.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.png?raw=true"><img class="aligncenter size-full wp-image-475" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.png?raw=true" alt="" width="317" height="308" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true"><img class="aligncenter size-full wp-image-475" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true" alt="" width="317" height="308" /></a></p>
 
 4-Click the blue <strong>Import</strong> icon to start the data import process. Select or drop the  <strong>1871_Postmaster_Salary CSV</strong> file to upload the data set. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_5.png?raw=true"><img class="aligncenter size-full wp-image-477" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_5.png?raw=true" alt="" width="504" height="433" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_5.PNG?raw=true"><img class="aligncenter size-full wp-image-477" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_5.PNG?raw=true" alt="" width="504" height="433" /></a></p>
 
 5-Check that only <strong>Latitude</strong> and <strong>Longitude</strong> are selected before clicking <strong>Continue</strong>. My Maps will keep all the original data records but needs to detect which fields contain spatial data.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_6.png?raw=true"><img class="aligncenter size-full wp-image-478" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_6.png?raw=true" alt="" width="509" height="412" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_6.PNG?raw=true"><img class="aligncenter size-full wp-image-478" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_6.PNG?raw=true" alt="" width="509" height="412" /></a></p>
 
 6-The next screen asks what field you want to use for the place marker titles. Select <strong>Name</strong> and click <strong>Finish</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.png?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.png?raw=true" alt="" width="307" height="286" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true" alt="" width="307" height="286" /></a></p>
 
 7-Like with Carto, we can <strong>click on the three vertical dots</strong> next to the layer to rename the layer. Name the layer <strong>Postmaster Salaries</strong> or a similar descriptive title.
 
 <p align="center">8-My Maps is showing a message that 32 rows in the data could not be drawn on the map. If you have additional time, you can come back and explore this error message. For now, click <strong>Dismiss</strong>.</p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.png?raw=true"><img class="aligncenter size-full wp-image-481" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.png?raw=true" alt="" width="309" height="41" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter size-full wp-image-481" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="" width="309" height="41" /></a></p>
 
 9-At the bottom of the pop-up in the top left-hand corner is a <strong>Base map icon</strong> with a dropdown icon. You can explore different available base maps to see what works best with your data. For example, My Maps’s default base map includes topographical data. If that data is not essential for our analysis, a simpler base map (like <strong>Simple Atlas</strong>) can help users focus on the most important aspects of the spatial visualization.
 
 10-<strong>Click on the blue paint roller icon</strong> to open a pop-up with style customization options.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.png?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.png?raw=true" alt="" width="310" height="267" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="" width="310" height="267" /></a></p>
 
 11-Click <strong>Uniform style</strong> and click <strong>Group places by</strong>, then select <strong>PM_Salary</strong> under <strong>Style by data column</strong> to color the data points based on salary categories.
 
 12-Based on looking at the legend created in the last step, the number of <strong>Nulls</strong> and <strong>Others</strong> means the default options for this style don’t work effectively for our data.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.png?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.png?raw=true" alt="" width="307" height="294" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="" width="307" height="294" /></a></p>
 
 13-Click the <strong>blue paint roller icon</strong> again to reopen the customization pop-up. Change the selection from <strong>Categories</strong> to <strong>Ranges</strong>, and change the number from <strong>4</strong> to <strong>10</strong>. My Maps’s default setting calculates categories for the data, but the <strong>range</strong> option lets us determine a <strong>specific number of range distributions</strong>. In this case, specifying <strong>10</strong> ranges effectively represents our data. You can click on the <strong>color</strong> dropdown to select a <strong>color gradient</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.png?raw=true"><img class="aligncenter size-large wp-image-484" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="" width="676" height="483" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true"><img class="aligncenter size-large wp-image-484" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true" alt="" width="676" height="483" /></a></p>
 
 14-Now that our data is grouped and displayed on the map, <strong>click on points</strong> to see how the My Maps pop-up compares to Carto. What are the limitations of this platform compared to Carto? What are the advantages? Where would you go next in your customization or analysis?
 
