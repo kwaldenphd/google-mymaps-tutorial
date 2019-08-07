@@ -14,6 +14,13 @@ Introduction to Mapping Part II (Google MyMaps) is licensed under a <a href="htt
 Google launched <a href="https://www.google.com/maps/about/mymaps/">Google My Maps</a> in 2007 as part of the Google cloud services suite of programs. Through the My Map interface, users with a Google account can map points, lines, and shapes, with additional display customization options. My Maps allows users to generate maps from spreadsheets, work collaboratively on maps, and share interactive maps.
 
 <hr />
+# Data
+
+Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Save the 1870 Federal Census Grinnell Township file to your Desktop.
+
+Alternatively, you can go to the data page of Blevins’s personal site. Under the “Regional Data: Western Post Offices and Postmaster Salaries” heading, download the 1871_PostmasterSalaries CSV file.
+
+<hr />
 
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-473" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="332" /></a></p>
 
@@ -69,7 +76,8 @@ Google launched <a href="https://www.google.com/maps/about/mymaps/">Google My Ma
 
 <hr />
 
-<strong>Additional exploration:</strong>
+## Additional exploration:
+
 <ul>
  	<li>When we uploaded our data to My Maps, an error message said 32 rows could not be shown on the map. Open the data table and explore what patterns or discrepancies you can find for these rows. Why can't the mapping program visualize this data? What would be involved in editing the data to make these rows display on the map?</li>
  	<li>Continue exploring the display options in My Maps. What level of customization or analysis does My Maps provide, compared to Carto?</li>
@@ -77,16 +85,16 @@ Google launched <a href="https://www.google.com/maps/about/mymaps/">Google My Ma
 
 <hr />
 
-<em><strong>Reflection questions:</strong></em>
+# Reflection questions:
 <ul>
- 	<li><em>How would you compare Carto and Google Maps as mapping tools for digital history?</em></li>
- 	<li><em>What are the strengths and weaknesses of each platform?</em></li>
- 	<li><em>What types of projects or data could you see working best with a specific tool?</em></li>
+ 	<li>How would you compare Carto and Google Maps as mapping tools for digital history?</li>
+ 	<li>What are the strengths and weaknesses of each platform?</li>
+ 	<li>What types of projects or data could you see working best with a specific tool?</li>
 </ul>
 
 <hr />
 
-<strong>Introduction to Mapping wrap-up</strong>
+# Introduction to Mapping wrap-up
 
 Now that we’ve mapped Blevins’s data using two different tools, let’s explore <a href="http://cameronblevins.org/gotp/">how he maps this data in the larger project</a>. As you explore the maps, keep in mind Blevins was focused on mapping post offices’ hours of service, rather than postmaster salaries which were the focus of our data.
 
@@ -96,9 +104,9 @@ Read about how Blevins uses this data and spatial analysis to construct a histor
 
 <hr />
 
-<em><strong>Final reflection questions:</strong></em>
+# Final reflection questions:
 <ul>
- 	<li><em>What interested you in this data? Would you have been able to find this information and draw conclusions from it without using spatial analysis tools?</em></li>
- 	<li><em>What questions do you still have about this data? How could you answer them? How could you answer them digitally?</em></li>
- 	<li><em>Were there any issues we talked about in historical mapping (change over time, error, certainty, etc.) that you think of differently now that you have tried it?</em></li>
+ 	<li>What interested you in this data? Would you have been able to find this information and draw conclusions from it without using spatial analysis tools?</li>
+ 	<li>What questions do you still have about this data? How could you answer them? How could you answer them digitally?</li>
+ 	<li>Were there any issues we talked about in historical mapping (change over time, error, certainty, etc.) that you think of differently now that you have tried it?</li>
 </ul>
