@@ -47,7 +47,7 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 
 6-The next screen asks what field you want to use for the place marker titles. Select <strong>District Name</strong> and click <strong>Finish</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_a.PNG?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_a.PNG?raw=true" alt="" width="307" height="286" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_a.PNG?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_a.PNG?raw=true" alt="" width="307" height="286" /></a></p>
 
 7-Click on the three vertical dots next to the layer to rename the layer.
 
@@ -61,27 +61,27 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 
 10-<strong>Click on the blue paint roller icon</strong> to open a pop-up with style customization options.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_b.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_b.PNG?raw=true" alt="" width="310" height="267" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_b.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_b.PNG?raw=true" alt="" width="310" height="267" /></a></p>
 
 11-Click <strong>Uniform style</strong> and click <strong>Group places by</strong>, then select one of the data fields under <strong>Style by data column</strong> to color the data points based on that field.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_c.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_c.PNG?raw=true" alt="" width="310" height="267" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_c.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_c.PNG?raw=true" alt="" width="310" height="267" /></a></p>
 
 12-Based on looking at the legend created in the last step, the number of values in that field suggest the default options for this style may not work effectively for our data.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_d.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_d.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_d.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_d.PNG?raw=true" alt="" width="307" height="294" /></a></p>
 
 13-Click the <strong>blue paint roller icon</strong> again to reopen the customization pop-up. Change the selection from <strong>Categories</strong> to <strong>Ranges</strong>, and change the number from <strong>4</strong> to <strong>7</strong>. My Maps’s default setting calculates categories for the data, but the <strong>range</strong> option lets us determine a <strong>specific number of range distributions</strong>. In this case, specifying <strong>10</strong> ranges effectively represents our data. You can click on the <strong>color</strong> dropdown to select a <strong>color gradient</strong>.
 
 # Sharing Your Map
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_g.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_g.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_g.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_g.PNG?raw=true" alt="" width="307" height="294" /></a></p>
 
 14-Click the Preview button to open a new browser tap displaying what the shared map will look like.
 
 15-Click on the Share button to generate a view-only link to share your map.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_f.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_f.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_f.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/HUM297/screenshots/Capture_f.PNG?raw=true" alt="" width="307" height="294" /></a></p>
 
 16-Click on the three dotes next to the map title to see additional export and sharing options
 
