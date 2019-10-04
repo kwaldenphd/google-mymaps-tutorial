@@ -19,6 +19,8 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 
 <hr />
 
+# Creating a Map
+
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-473" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="332" /></a></p>
 
 1-Sign up for a <a href="https://accounts.google.com/signup/v2/webcreateaccount?hl=en&amp;flowName=GlifWebSignIn&amp;flowEntry=SignUp">free Google Account</a>, and use those credentials to <a href="https://accounts.google.com/ServiceLogin/signinchooser?service=mymaps&amp;passive=1209600&amp;continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2F%3Fhl%3Den&amp;followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2F%3Fhl%3Den&amp;hl=en&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin">log in to My Maps</a>.
@@ -30,6 +32,8 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.PNG?raw=true"><img class="aligncenter size-full wp-image-479" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_7.PNG?raw=true" alt="" width="407" height="295" /></a></p>
 
 3-Name the map by clicking on <strong>Untitled map</strong> in the top left-hand corner.
+
+# Adding Data to Your Map
 
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true"><img class="aligncenter size-full wp-image-475" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true" alt="" width="317" height="308" /></a></p>
 
@@ -43,11 +47,13 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 
 6-The next screen asks what field you want to use for the place marker titles. Select <strong>District Name</strong> and click <strong>Finish</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true" alt="" width="307" height="286" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_a.PNG?raw=true"><img class="aligncenter size-full wp-image-480" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_a.PNG?raw=true" alt="" width="307" height="286" /></a></p>
 
 7-Click on the three vertical dots next to the layer to rename the layer.
 
 8-My Maps is showing a message that 1 row in the data could not be drawn on the map. If you have additional time, you can come back and explore this error message. For now, click <strong>Dismiss</strong>.
+
+# Customizing Your Map
 
 <p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter size-full wp-image-481" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="" width="309" height="41" /></a></p>
 
@@ -55,19 +61,33 @@ Download the 2018-2019 Iowa Public School District PreK-12 Enrollments file from
 
 10-<strong>Click on the blue paint roller icon</strong> to open a pop-up with style customization options.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="" width="310" height="267" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_b.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_b.PNG?raw=true" alt="" width="310" height="267" /></a></p>
 
 11-Click <strong>Uniform style</strong> and click <strong>Group places by</strong>, then select one of the data fields under <strong>Style by data column</strong> to color the data points based on that field.
 
-12-Based on looking at the legend created in the last step, the number of <strong>Nulls</strong> and <strong>Others</strong> means the default options for this style don’t work effectively for our data.
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_c.PNG?raw=true"><img class="aligncenter size-full wp-image-482" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_c.PNG?raw=true" alt="" width="310" height="267" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+12-Based on looking at the legend created in the last step, the number of values in that field suggest the default options for this style may not work effectively for our data.
+
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_d.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_d.PNG?raw=true" alt="" width="307" height="294" /></a></p>
 
 13-Click the <strong>blue paint roller icon</strong> again to reopen the customization pop-up. Change the selection from <strong>Categories</strong> to <strong>Ranges</strong>, and change the number from <strong>4</strong> to <strong>7</strong>. My Maps’s default setting calculates categories for the data, but the <strong>range</strong> option lets us determine a <strong>specific number of range distributions</strong>. In this case, specifying <strong>10</strong> ranges effectively represents our data. You can click on the <strong>color</strong> dropdown to select a <strong>color gradient</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true"><img class="aligncenter size-large wp-image-484" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true" alt="" width="676" height="483" /></a></p>
+# Sharing Your Map
 
-&nbsp;
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_g.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_g.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+
+14-Click the Preview button to open a new browser tap displaying what the shared map will look like.
+
+15-Click on the Share button to generate a view-only link to share your map.
+
+<p align="center"><a href="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_f.PNG?raw=true"><img class="aligncenter size-full wp-image-483" src="https://github.com/kwaldenphd/google-mymaps-tutorial/blob/master/screenshots/Capture_f.PNG?raw=true" alt="" width="307" height="294" /></a></p>
+
+16-Click on the three dotes next to the map title to see additional export and sharing options
+
+17-Print Map gives you the option to export your map as a static file.
+
+18-Embed on my site gives you the option to embed the interactive map on another website.
 
 <hr />
 
